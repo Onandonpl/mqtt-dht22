@@ -1,2 +1,2 @@
 
-Mqtt, ESP8266(ONOF)
+Mqtt, ESP8266(DHT22)
